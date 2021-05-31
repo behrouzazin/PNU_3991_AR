@@ -85,15 +85,15 @@
    <tr>
     <th ></th>
      <th ></th>
-     <th ></th>
-     <th></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار 01-1115280</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">الگوریتم های پیشرفته</a></th>
     <th></th>
     <th> پنج شنبه</th>
      </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار 01-1115280</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">الگوریتم های پیشرفته</a></th>
+     <th ></th>
+     <th ></th>
      <th></th>
     <th></th>
   </tr>
