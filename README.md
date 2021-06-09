@@ -5,7 +5,7 @@
 ---
 + [PNU_3991_AR](https://github.com/behrouzazin/PNU_3991_AR)
 + [github](https://github.com/behrouzazin)
-+ [resume](https://behrouzazin.github.io)
++ [resume](https://behrouzazin.github.io/resume/)
 + [SOP](https://behrouzazin.github.io/SOP/)
 + [certificates](https://behrouzazin.github.io/CERTIFICATES/)
 
