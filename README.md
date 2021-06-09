@@ -7,7 +7,7 @@
 + [github](https://github.com/behrouzazin)
 + [resume](https://behrouzazin.github.io)
 + [SOP](https://behrouzazin.github.io/SOP/)
-+ [certificates](https://github.com/behrouzazin/CERTIFICATES/blob/main/certificates/cert.png)
++ [certificates](https://behrouzazin.github.io/CERTIFICATES/)
 
 
 -------------------
