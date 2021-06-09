@@ -15,9 +15,8 @@
 
 ## دروس کارشناسی ارشد
 
-[ معماری نرم افزار 01-1115280 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
-
-
+[ معماری نرم افزار3 01-1115280 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
+[ الگوریتم های پیشرفته 3 01-1115025 ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture)
 
 ------------------
 > ارزیابی ها
@@ -85,8 +84,8 @@
    <tr>
     <th ></th>
      <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">الگوریتم های پیشرفته</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار 01-1115280</a></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">1115025-01 3الگوریتم های پیشرفته</a></th>
+     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار3 01-1115280</a></th>
     <th></th>
     <th> پنج شنبه</th>
      </tr>
